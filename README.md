@@ -11,6 +11,7 @@
 ## Overview
 - **Title** : Ruku's Adventure
 - **Project Duration** : November 2024 - December 2024
+- **Language** : Processing
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Introduction**
